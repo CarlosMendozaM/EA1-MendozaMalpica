@@ -1,2 +1,1 @@
-# EA1-MendozaMalpica
-Evaluación Aplicativa 
+# EAP-Mendoza
